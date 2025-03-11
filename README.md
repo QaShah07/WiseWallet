@@ -99,4 +99,4 @@ This project will be soon licensed under the MIT License. You are free to use, m
 
 ## Authors ✍️
 
-This project is thought, planned and implemented by [Isabella Aquino](https://github.com/isabellaaquino) (backend heavy) & [Pedro Dell'Olio](https://github.com/pedrodellolio) (frontend heavy)
+This project is thought, planned and implemented by [Shah Mohammad](https://github.com/QaShah07) (backend heavy) & [Shresth Deorari](https://github.com/Shresth-Deorari) (frontend heavy)
