@@ -93,9 +93,7 @@ The following features are planned for future development:
 - Budgeting tools to help you plan and manage your expenses effectively.
 - Recurrent transactions to facilitate expenses that happen every month
 
-## License 📄
 
-This project will be soon licensed under the MIT License. You are free to use, modify, and distribute this software for personal purposes.
 
 ## Authors ✍️
 
