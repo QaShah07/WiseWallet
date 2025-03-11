@@ -38,7 +38,7 @@ To run the application locally, please follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/isabellaaquino/financialhub.git
+   git clone https://github.com/QaShah07/WiseWallet
    ```
 
 2. Install dependencies for the Django backend:
