@@ -17,7 +17,7 @@ function AuthRoot() {
         }}
       >
         <Typography variant="h6" component="h1" p={5} fontWeight={600}>
-          Financialhub
+          WiseWallet
         </Typography>
         <Box p={5} sx={{ display: "flex", alignItems: "center", gap: 2 }}>
           <Typography variant="body2" component="small" color={grey[500]}>

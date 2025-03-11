@@ -39,7 +39,7 @@ export default function DrawerAppBar(props: Props) {
         fontWeight={600}
         sx={{ my: 2 }}
       >
-        Financialhub
+        WiseWallet
       </Typography>
       <Divider />
       <List>
@@ -91,7 +91,7 @@ export default function DrawerAppBar(props: Props) {
               fontWeight={600}
               sx={{ display: { xs: "none", sm: "block" } }}
             >
-              Financialhub
+              WiseWallet
             </Typography>
             <Divider
               orientation="vertical"
