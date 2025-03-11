@@ -99,4 +99,4 @@ This project will be soon licensed under the MIT License. You are free to use, m
 
 ## Authors ✍️
 
-This project is thought, planned and implemented by [Shah Mohammad](https://github.com/QaShah07) (backend heavy&fronted heavy) & [Shresth Deorari](https://github.com/Shresth-Deorari) (frontend heavy & backend heavy)
+This project is thought, planned and implemented by [Shah Mohammad](https://github.com/QaShah07) & [Shresth Deorari](https://github.com/Shresth-Deorari)
