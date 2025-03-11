@@ -71,7 +71,7 @@ To run the application locally, please follow these steps:
 
 ## About the project 🧑‍🎓
 
-Although this project is a work in progress (and will be for a long time), our kanban board and issues are public, and can be accessed [here](https://github.com/users/isabellaaquino/projects/1/views/1). We would love to know your ideas, suggestions and reviews!
+
 
 Another thing worth being said is that we are both undergrad compsci students, and we try to allocate time to work on this whenever we can. Along with that, we also want to add that we have an initial UML modelling made on Visual Paradigm that is being made for studying purposes and can be accessed through `backend/modelling`.
 
